@@ -1,7 +1,7 @@
-## EunJu😊
-<a href="https://velog.io/@woulduu" target="_blank"><img src="https://img.shields.io/badge/BLOG-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <br/><br>
-Hi there, welcome to my github <br>
-I'll be a web developer who's constantly thinking and active 
+## 👩‍💻 EunJu
+<a href="https://velog.io/@woulduu" target="_blank"><img src="https://img.shields.io/badge/BLOG-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <br/>
+Hi there, welcome to my github <br><br/>
+I'm a web developer who's constantly thinking and active 😊
 <br><br/>
 
 ### 🔥 Skills
@@ -21,6 +21,5 @@ I'll be a web developer who's constantly thinking and active
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
 
-<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonamed006&show_icons=true&theme=buefy)
