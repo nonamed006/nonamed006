@@ -2,7 +2,7 @@
 <a href="https://velog.io/@woulduu" target="_blank"><img src="https://img.shields.io/badge/BLOG-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <br/>
 Hi there, welcome to my github <br>
 I'll be a web developer who's constantly thinking and active 
-<br><br/><br/><br/><br/>
+<br><br/><br/>
 
 ### 🔥 Skills
 <br><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -15,14 +15,12 @@ I'll be a web developer who's constantly thinking and active
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/JSP-F37626?style=flat-square&logo=JSP&logoColor=white"> 
-
 <br/>
-
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
 
-<br><br><br/><br/><br/>
+<br><br><br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonamed006&show_icons=true&theme=buefy)
