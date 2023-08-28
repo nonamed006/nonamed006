@@ -1,7 +1,7 @@
 ## EunJu😊
-Hi there, I'm eunju. welcome my github <br>
+Hi there, welcome to my github <br>
 I'll be a web developer who's constantly thinking and active <br>
-here's my Blog <a href="https://velog.io/@woulduu" target="_blank"><img src="https://img.shields.io/badge/BLOG-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://velog.io/@woulduu" target="_blank"><img src="https://img.shields.io/badge/BLOG-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 ### 🔥 Skills
 <br><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/>
